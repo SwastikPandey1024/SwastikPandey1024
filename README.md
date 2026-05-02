@@ -16,7 +16,7 @@
   <a href="mailto:swastikpandey1024@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://www.linkedin.com/in/swastik-pandey/">
+  <a href="https://www.linkedin.com/in/swastik-pandey-a02719297">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
 </p>
