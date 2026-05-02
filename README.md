@@ -1,34 +1,193 @@
-<h1 align="center">Hi 👋, I'm Swastik Pandey</h1>
-<h3 align="center">Business Tech + Machine Intelligence | Crafting Smart Digital Ecosystems</h3>
+<!-- ===== HERO SECTION ===== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swastikpandey1024&label=Profile%20views&color=0e75b6&style=flat" alt="swastikpandey1024" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Swastik+Pandey;Data+Analyst+%7C+ML+Engineer;Building+Data-Driven+Systems;From+Data+→+Insights+→+Decisions" />
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swastikpandey1024" alt="swastikpandey1024" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Data Science**
-
-- 👯 I’m looking to collaborate on **XR VR and ML Based Projects**
-
-- 💬 Ask me about **Business Empowerment**
-
-- 📫 How to reach me **swastikpandey1024@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-j5N71eTn_xPoViS1WynjFhnKwoyfMHB/view?usp=drivesdk](https://drive.google.com/file/d/1-j5N71eTn_xPoViS1WynjFhnKwoyfMHB/view?usp=drivesdk)
-
-- ⚡ Fun fact **I think i am a good decision maker**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/swastik-pandey-a02719297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swastik-pandey-a02719297" height="30" width="40" /></a>
+<p align="center">
+  <b>Data Analyst • Machine Learning Engineer • Business-Oriented Builder</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://offeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  I design systems that don’t just analyze data — they drive real business decisions.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swastikpandey1024&show_icons=true&locale=en&layout=compact" alt="swastikpandey1024" /></p>
+<p align="center">
+  <a href="mailto:swastikpandey1024@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/swastik-pandey/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swastikpandey1024&show_icons=true&locale=en" alt="swastikpandey1024" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swastikpandey1024&" alt="swastikpandey1024" /></p>
+<!-- ===== METRICS ===== -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwastikPandey1024&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwastikPandey1024&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+# 🧠 Positioning
+
+```diff
++ Data-first mindset
++ Business-aware decision systems
++ Product-style execution
+```
+
+* 🎓 B.Tech CSE @ DDU Gorakhpur University
+* 📊 Core: Data Analytics, ML, NLP, BI
+* ⚙️ Built production ML systems (forecasting, NLP pipelines)
+* 💼 Experience in KPI dashboards, financial analytics & decision modeling
+* 🏆 NSO Gold Medalist | 350+ learning consistency
+
+---
+
+# ⚡ Tech Stack
+
+### Core
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,sql,git,aws,docker,linux" />
+</p>
+
+### Data + ML
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XGBoost-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge"/>
+</p>
+
+### BI & Product
+
+<p>
+<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge"/>
+</p>
+
+---
+
+# 🧩 Selected Work
+
+## 🔥 SalesPulse AI (Flagship Project)
+
+> ML-powered forecasting system built for real business usage
+
+**Problem**
+Manual forecasting → inaccurate inventory + revenue loss
+
+**Approach**
+
+* XGBoost regression model
+* Feature engineering (lag, rolling, temporal patterns)
+* Full ML pipeline (preprocessing → prediction → deployment)
+
+**Execution**
+
+* 9,994 records trained
+* Streamlit dashboard (real-time predictions)
+* Batch forecasting + KPI analytics
+
+**Impact**
+
+* 📈 85% accuracy vs 70% manual
+* 💰 20–30% cost reduction
+* ⏱️ 10+ hrs/month saved
+
+<p>
+<a href="https://github.com/SwastikPandey1024">
+<img src="https://img.shields.io/badge/View%20Code-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+## 📊 NLP Sentiment Engine
+
+> Market sentiment intelligence using large-scale tweet data
+
+* Processed 100K+ tweets
+* Used spaCy + VADER + TF-IDF
+* Built ML classifier (Random Forest ~80% F1)
+* Linked sentiment → volatility behavior
+
+---
+
+## 📈 BI Dashboard System
+
+> Turning NLP output into business insight
+
+* Power BI dashboard
+* Dynamic filtering + trend analysis
+* Stakeholder-friendly visualization
+
+---
+
+## 💳 TriviaPay (FinTech Product)
+
+> Blockchain-based campus finance system
+
+* Built with React + Node + Algorand
+* Designed user journeys & product logic
+* Validated in hackathon environment
+
+---
+
+# 💼 Experience
+
+**Managing Partner — Brand Scalar**
+→ Owned analytics, KPIs, financial reporting
+→ Built decision dashboards influencing strategy
+
+**Head of Finance & DBMS — TechSphere**
+→ Managed data systems + 100+ member operations
+
+**Campus Ambassador — IIT Roorkee**
+→ Scaled participation by 50%+
+
+**Team Lead — Smart India Hackathon**
+→ Led full lifecycle: idea → execution → pitch
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/SwastikPandey1024/SwastikPandey1024/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📜 Certifications
+
+* CS50x — Harvard
+* Samsung AI Program
+* IBM AI Agent Architect
+* Power BI Certification
+* AWS Summit
+
+---
+
+# 📫 Contact
+
+<p align="center">
+<a href="mailto:swastikpandey1024@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/swastik-pandey/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<b>Not just learning tech — building systems that create impact.</b>
+</p>
