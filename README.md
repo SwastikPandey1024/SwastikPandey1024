@@ -23,7 +23,7 @@
 
 ---
 
-<!-- ===== METRICS ===== -->
+<!-- ===== STATS ===== -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SwastikPandey1024&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -41,35 +41,67 @@
 ```
 
 * 🎓 B.Tech CSE @ DDU Gorakhpur University
-* 📊 Core: Data Analytics, ML, NLP, BI
-* ⚙️ Built production ML systems (forecasting, NLP pipelines)
-* 💼 Experience in KPI dashboards, financial analytics & decision modeling
-* 🏆 NSO Gold Medalist | 350+ learning consistency
+* 📊 Data Analytics | Machine Learning | NLP | BI
+* ⚙️ Built ML pipelines, dashboards, forecasting systems
+* 💼 KPI analytics, financial modeling, decision systems
+* 🏆 NSO Gold Medalist | 350+ day learning streak
 
 ---
 
 # ⚡ Tech Stack
 
-### Core
+### 👨‍💻 Core
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,sql,git,aws,docker,linux" />
+<img src="https://skillicons.dev/icons?i=python,sql,git,github,aws,docker,linux" />
 </p>
 
-### Data + ML
+---
+
+### 📊 Data Engineering & Analysis
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XGBoost-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-8E44AD?style=for-the-badge"/>
 </p>
 
-### BI & Product
+---
+
+### 🤖 Machine Learning & NLP
 
 <p>
-<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/XGBoost-E74C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Random%20Forest-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Logistic%20Regression-34495E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-2E86C1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLTK-F39C12?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TF--IDF-8E44AD?style=for-the-badge"/>
+</p>
+
+---
+
+### 📈 BI & Visualization
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-8E44AD?style=for-the-badge"/>
+</p>
+
+---
+
+### 🌐 Development & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/API%20Integration-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20Scraping-34495E?style=for-the-badge"/>
 </p>
 
 ---
@@ -78,89 +110,51 @@
 
 ## 🔥 SalesPulse AI (Flagship Project)
 
-> ML-powered forecasting system built for real business usage
+> ML-powered forecasting system
 
-**Problem**
-Manual forecasting → inaccurate inventory + revenue loss
+* XGBoost model with feature engineering
+* Real-time Streamlit dashboard
+* Batch predictions + KPI analytics
 
-**Approach**
-
-* XGBoost regression model
-* Feature engineering (lag, rolling, temporal patterns)
-* Full ML pipeline (preprocessing → prediction → deployment)
-
-**Execution**
-
-* 9,994 records trained
-* Streamlit dashboard (real-time predictions)
-* Batch forecasting + KPI analytics
-
-**Impact**
-
-* 📈 85% accuracy vs 70% manual
-* 💰 20–30% cost reduction
-* ⏱️ 10+ hrs/month saved
-
-<p>
-<a href="https://github.com/SwastikPandey1024">
-<img src="https://img.shields.io/badge/View%20Code-black?style=for-the-badge&logo=github"/>
-</a>
-</p>
+📈 85% accuracy | 💰 20–30% cost reduction
 
 ---
 
-## 📊 NLP Sentiment Engine
-
-> Market sentiment intelligence using large-scale tweet data
+## 📊 NLP Sentiment Analysis
 
 * Processed 100K+ tweets
-* Used spaCy + VADER + TF-IDF
-* Built ML classifier (Random Forest ~80% F1)
-* Linked sentiment → volatility behavior
+* spaCy + VADER + TF-IDF
+* Random Forest (~80% F1-score)
 
 ---
 
-## 📈 BI Dashboard System
+## 📈 BI Dashboard
 
-> Turning NLP output into business insight
-
-* Power BI dashboard
-* Dynamic filtering + trend analysis
-* Stakeholder-friendly visualization
+* Power BI dashboards
+* Business insights & trends
 
 ---
 
-## 💳 TriviaPay (FinTech Product)
+## 💳 TriviaPay
 
-> Blockchain-based campus finance system
-
-* Built with React + Node + Algorand
-* Designed user journeys & product logic
-* Validated in hackathon environment
+* Blockchain-based payment system
+* React + Node + Algorand
 
 ---
 
 # 💼 Experience
 
-**Managing Partner — Brand Scalar**
-→ Owned analytics, KPIs, financial reporting
-→ Built decision dashboards influencing strategy
-
-**Head of Finance & DBMS — TechSphere**
-→ Managed data systems + 100+ member operations
-
-**Campus Ambassador — IIT Roorkee**
-→ Scaled participation by 50%+
-
-**Team Lead — Smart India Hackathon**
-→ Led full lifecycle: idea → execution → pitch
+* Managing Partner — Brand Scalar
+* Head of Finance & DBMS — TechSphere
+* Campus Ambassador — IIT Roorkee
+* Team Lead — Smart India Hackathon
 
 ---
 
 # 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/SwastikPandey1024/SwastikPandey1024/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/SwastikPandey1024/SwastikPandey1024/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -189,5 +183,5 @@ Manual forecasting → inaccurate inventory + revenue loss
 ---
 
 <p align="center">
-<b>Not just learning tech — building systems that create impact.</b>
+<b>Building systems that turn data into real-world impact.</b>
 </p>
