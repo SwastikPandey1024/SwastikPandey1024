@@ -343,6 +343,9 @@ LLM Response
 <a href="https://github.com/SwastikPandey1024/SalesPulse_AI">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+<a href="https://salespulseai.streamlit.app">
+<img src="https://img.shields.io/badge/Live_App-salespulseai.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit"/>
+</a>
 
 <br/><br/>
 
@@ -408,6 +411,12 @@ alt="SalesPulse AI"
 
 <a href="https://github.com/SwastikPandey1024/TriviaPay_Project">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://triviapay.vercel.app/">
+<img src="https://img.shields.io/badge/Frontend-Vercel%20Live-000000?style=for-the-badge&logo=vercel&logoColor=white)"/>
+</a>
+<a href="https://triviapay-project.onrender.com">
+<img src="https://img.shields.io/badge/Backend-Render%20Live-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 </a>
 
 </div>
