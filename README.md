@@ -1105,7 +1105,7 @@ Measure whether the solution actually matters.
 
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=SwastikPandey1024&hide_border=true"
-width="70%"
+width="60%"
 />
 
 <br/><br/>
@@ -1120,10 +1120,56 @@ width="70%"
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=SwastikPandey1024&hide_border=true&area=true"
-width="95%"
+width="90%"
 />
 
 </div>
+
+---
+
+---
+
+# 📌 GitHub Overview
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SwastikPandey1024&theme=tokyonight"
+  width="75%"
+  alt="GitHub Profile Details"
+/>
+
+<br/><br/>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SwastikPandey1024&theme=tokyonight"
+  width="100%"
+  alt="Top Languages by Repository"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SwastikPandey1024&theme=tokyonight"
+  width="100%"
+  alt="Top Languages by Commit"
+/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
 
 ---
 
