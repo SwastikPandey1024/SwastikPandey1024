@@ -470,6 +470,10 @@ alt="TriviaPay"
 
 ### *108,750 tweets → NLP → financial insight*
 
+<a href="https://github.com/SwastikPandey1024/Sentiment-Analysis-Dashboard">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </div>
 
 <table>
@@ -662,6 +666,10 @@ Threat Dashboard
 
 ### *Computer Vision × Deep Learning*
 
+<a href="https://github.com/SwastikPandey1024/MedVision-AI">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
 <br/>
 
 ### 🔬 Exploration Focus
@@ -700,6 +708,10 @@ Explored computer-vision workflows around **model training, experimentation and 
 ## 🏎️ F1 Race Replay
 
 ### *Motorsport analytics × open source*
+
+<a href="https://github.com/SwastikPandey1024/f1-race-replay">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
 <br/>
 
