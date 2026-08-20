@@ -466,11 +466,11 @@ alt="TriviaPay"
 
 <div align="center">
 
-# 📊 Stock Sentiment Intelligence
+# 📊 Stock Sentiment Intelligence & Dashboard 
 
 ### *108,750 tweets → NLP → financial insight*
 
-<a href="https://github.com/SwastikPandey1024/Sentiment-Analysis-Dashboard">
+<a href="https://github.com/SwastikPandey1024/Stock-Sentiment-Analysis-using-NLP-ML">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
