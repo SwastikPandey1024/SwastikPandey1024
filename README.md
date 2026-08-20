@@ -268,6 +268,10 @@ Decision Systems
 
 ### *Ask your documents. Get intelligent answers.*
 
+<a href="https://github.com/SwastikPandey1024/DocMind">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </div>
 
 <table>
@@ -401,6 +405,10 @@ alt="SalesPulse AI"
 ## 💳 TriviaPay
 
 ### *One Campus. One Wallet.*
+
+<a href="https://github.com/SwastikPandey1024/TriviaPay_Project">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
