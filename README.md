@@ -3,6 +3,7 @@
      Final Visual Portfolio Edition
      
      REQUIRED IMAGE FILES:
+     assets/portfolio_hero_overview.png
      assets/swastik-profile.png
      assets/docuchat.png
      assets/salespulse.png
@@ -121,6 +122,80 @@ alt="Swastik Pandey"
 
 </tr>
 </table>
+
+---
+
+# 🌐 My Portfolio
+
+<div align="center">
+
+### An interactive engineering portfolio — not just a resume.
+
+My portfolio brings together the systems, experiments, research and engineering philosophy behind my work.
+
+<br/>
+
+<a href="https://swastik-pandey-portfolio.swastikpandey1024.workers.dev">
+  <img
+    src="./assets/portfolio_hero_overview.png"
+    width="92%"
+    alt="Swastik Pandey AI Engineering Portfolio"
+  />
+</a>
+
+<br/><br/>
+
+<a href="https://swastik-pandey-portfolio.swastikpandey1024.workers.dev">
+  <img
+    src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-6C5CE7?style=for-the-badge"
+    alt="Explore Portfolio"
+  />
+</a>
+
+</div>
+
+## 🧭 The Experience
+
+> My portfolio is not just a collection of projects — it is a visual story of **how I think, build, test, and ship intelligent systems.**  
+> Each chapter represents a different stage of turning an idea into something useful.
+
+### 🧠 How I Approach Engineering
+
+```text
+🎯 PREDICT
+   ↓
+   Find signals in data and turn uncertainty into measurable possibilities.
+
+🧩 REASON
+   ↓
+   Connect models, APIs, algorithms, and business logic to understand the "why."
+
+🗂️ REMEMBER
+   ↓
+   Build systems that can retain context, retrieve knowledge, and work with real data.
+
+👁️ INTERPRET
+   ↓
+   Make AI outputs understandable through visualizations, explainability, and evidence.
+
+🛠️ HOW I BUILD
+   ↓
+   Design → Develop → Test → Refine → Deploy
+   with reproducibility, clean architecture, and practical engineering discipline.
+
+🧪 LAB
+   ↓
+   Experiment with new ideas, technologies, AI workflows, and unconventional solutions.
+
+👤 ABOUT
+   ↓
+   The engineer behind the systems — continuously learning across
+   AI, software engineering, data, product, and business.
+
+🤝 CONTACT
+   ↓
+   Turn an interesting problem into something worth building.
+```
 
 ---
 
