@@ -678,6 +678,9 @@ Threat Dashboard
 <a href="https://github.com/SwastikPandey1024/MedVision-AI">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+<a href="https://medvision-ai-pneumonia.streamlit.app/">
+<img src="https://img.shields.io/badge/LIVE-Demo-2563EB?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
 
 <br/>
 
