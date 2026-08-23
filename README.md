@@ -140,7 +140,7 @@ My portfolio brings together the systems, experiments, research and engineering 
 <a href="https://swastik-pandey-portfolio.swastikpandey1024.workers.dev">
   <img
     src="./assets/portfolio_hero_overview.png"
-    width="92%"
+    width="90%"
     alt="Swastik Pandey AI Engineering Portfolio"
   />
 </a>
@@ -207,7 +207,7 @@ My portfolio brings together the systems, experiments, research and engineering 
   <img
     src="./assets/meli_social_preview.png"
     alt="Meli — The Observant Little Companion"
-    width="100%"
+    width="80%"
   />
 </p>
 
@@ -233,18 +233,21 @@ Meli is an **ambient AI desktop companion** I built around a simple idea:
 Instead of opening a chatbot every time you need help, Meli is designed to quietly exist alongside the user, observe the available context, reason about it, and respond when interaction is useful.
 
 ```text
-Observe
-   ↓
-Understand
-   ↓
-Reason
-   ↓
-Remember
-   ↓
-Assist
-   ↓
-Adapt
+👁️ Observe → 🧠 Understand → 💭 Reason → 🗃️ Remember → 🤝 Assist → 🌱 Adapt
 ```
+
+# 🎀 Meet the Character Behind the System
+
+A major part of Meli's design is that the character itself is engineered.
+
+Her appearance, expressions, proportions, emotional states, anchor points, desktop scale and interaction poses are treated as part of the product rather than decorative artwork.
+
+<p align="center"> <img src="./assets/meli_character_sheet.png" alt="Meli Character Design Sheet — identity, personality, expressions, proportions and interaction states" width="70%" /> </p> <p align="center"> <sub> 💗 Character identity · 🎭 12 canonical expressions · 🌈 Signal-heart states · 🧍 Proportions · 🖥️ Desktop scale · 🎬 Interaction behavior </sub> </p>
+🧠 Personality → Interface
+
+Meli was designed around a personality that influences how she behaves:
+
+> **Warm. Curious. Observant. Playful. Calm. Intelligent. Respectful.**
 
 ---
 
