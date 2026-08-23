@@ -4,6 +4,8 @@
      
      REQUIRED IMAGE FILES:
      assets/portfolio_hero_overview.png
+     assets/meli_social_preview.png
+     assets/meli_character_sheet.png
      assets/swastik-profile.png
      assets/docuchat.png
      assets/salespulse.png
@@ -195,6 +197,53 @@ My portfolio brings together the systems, experiments, research and engineering 
 🤝 CONTACT
    ↓
    Turn an interesting problem into something worth building.
+```
+
+---
+
+# 💗 Meli — The Observant Little Companion
+
+<p align="center">
+  <img
+    src="./assets/meli_social_preview.png"
+    alt="Meli — The Observant Little Companion"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <strong>Observe. Understand. Assist. Always with you.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SwastikPandey1024/meli-ambient-ai-companion">
+    <img src="https://img.shields.io/badge/OPEN_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/COMPUTER_VISION-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VOICE_AI-EC4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-06B6D4?style=for-the-badge" />
+</p>
+
+### 🌸 Not just an assistant. A presence.
+
+Meli is an **ambient AI desktop companion** I built around a simple idea:
+
+> **AI should understand the context around you — without demanding your attention.**
+
+Instead of opening a chatbot every time you need help, Meli is designed to quietly exist alongside the user, observe the available context, reason about it, and respond when interaction is useful.
+
+```text
+Observe
+   ↓
+Understand
+   ↓
+Reason
+   ↓
+Remember
+   ↓
+Assist
+   ↓
+Adapt
 ```
 
 ---
