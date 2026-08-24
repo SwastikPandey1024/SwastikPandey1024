@@ -137,7 +137,7 @@ My portfolio brings together the systems, experiments, research and engineering 
 
 <br/>
 
-<a href="https://swastik-pandey-portfolio.swastikpandey1024.workers.dev">
+<a href="https://portfolio.swastikpandey1024.workers.dev/">
   <img
     src="./assets/portfolio_hero_overview.png"
     width="90%"
@@ -147,7 +147,7 @@ My portfolio brings together the systems, experiments, research and engineering 
 
 <br/><br/>
 
-<a href="https://swastik-pandey-portfolio.swastikpandey1024.workers.dev">
+<a href="https://portfolio.swastikpandey1024.workers.dev/">
   <img
     src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-6C5CE7?style=for-the-badge"
     alt="Explore Portfolio"
